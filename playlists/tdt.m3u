@@ -4,546 +4,546 @@
 # 🇵🇹 PORTUGAL (TDT)
 ########################
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",🇵🇹 RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTINF:-1 group-title="Portugal" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",🇵🇹 RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#EXTINF:-1 group-title="Portugal" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",🇵🇹 SIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#EXTINF:-1 group-title="Portugal" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",🇵🇹 TVI
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",🇵🇹 RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="Portugal" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",🇵🇹 SIC Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",🇵🇹 CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/CNN_Portugal.m3u
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 group-title="Portugal" tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",🇵🇹 TVI Reality
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
+#EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",🇵🇹 ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPMemoria.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",🇵🇹 RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpmemoria
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",🇵🇹 RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpacores
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",🇵🇹 RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtmadeira
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",🇵🇹 RTP África
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpafrica
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",🇵🇹 RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTINF:-1 group-title="Portugal" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",🇵🇹 TVI Internacional
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SICRadical.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Radical.png",SIC Radical
+#EXTINF:-1 group-title="Portugal" tvg-id="SICRadical.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Radical.png",🇵🇹 SIC Radical
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SICMulher.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Mulher.png",SIC Mulher
+#EXTINF:-1 group-title="Portugal" tvg-id="SICMulher.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Mulher.png",🇵🇹 SIC Mulher
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SICCaras.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Caras.png",SIC Caras
+#EXTINF:-1 group-title="Portugal" tvg-id="SICCaras.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Caras.png",🇵🇹 SIC Caras
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="SICK.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-K.png",SIC K
+#EXTINF:-1 group-title="Portugal" tvg-id="SICK.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-K.png",🇵🇹 SIC K
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="CanalQ.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canal_Q_logo.svg/512px-Canal_Q_logo.svg.png",Canal Q
+#EXTINF:-1 group-title="Portugal" tvg-id="CanalQ.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canal_Q_logo.svg/512px-Canal_Q_logo.svg.png",🇵🇹 Canal Q
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Porto_Canal.svg/512px-Logo_Porto_Canal.svg.png",Porto Canal
+#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Porto_Canal.svg/512px-Logo_Porto_Canal.svg.png",🇵🇹 Porto Canal
 #
 
-#EXTINF:-1 group-title="Portugal" tvg-id="Kuriakos.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuriakos_TV_logo.svg/512px-Kuriakos_TV_logo.svg.png",Kuriakos TV
+#EXTINF:-1 group-title="Portugal" tvg-id="Kuriakos.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kuriakos_TV_logo.svg/512px-Kuriakos_TV_logo.svg.png",🇵🇹 Kuriakos TV
 #
 
 ########################
 # 🇪🇸 ESPANHA (TDT)
 ########################
 
-#EXTINF:-1 group-title="Espanha" tvg-id="La1.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La1.png",La 1
+#EXTINF:-1 group-title="Espanha" tvg-id="La1.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La1.png",🇪🇸 La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 group-title="Espanha" tvg-id="La2.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La2.png",La 2
+#EXTINF:-1 group-title="Espanha" tvg-id="La2.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La2.png",🇪🇸 La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_logo_2023.svg/512px-Antena_3_logo_2023.svg.png",Antena 3
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_logo_2023.svg/512px-Antena_3_logo_2023.svg.png",🇪🇸 Antena 3
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuatro_logo_2023.svg/512px-Cuatro_logo_2023.svg.png",Cuatro
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuatro_logo_2023.svg/512px-Cuatro_logo_2023.svg.png",🇪🇸 Cuatro
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Telecinco_logo_2023.svg/512px-Telecinco_logo_2023.svg.png",Telecinco
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Telecinco_logo_2023.svg/512px-Telecinco_logo_2023.svg.png",🇪🇸 Telecinco
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/La_Sexta_logo_2023.svg/512px-La_Sexta_logo_2023.svg.png",La Sexta
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/La_Sexta_logo_2023.svg/512px-La_Sexta_logo_2023.svg.png",🇪🇸 La Sexta
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",24 Horas (TVE)
+#EXTINF:-1 group-title="Espanha" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",🇪🇸 24 Horas (TVE)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Clan_TVE_logo.svg/512px-Clan_TVE_logo.svg.png",Clan TVE
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Clan_TVE_logo.svg/512px-Clan_TVE_logo.svg.png",🇪🇸 Clan TVE
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Teledeporte_logo.svg/512px-Teledeporte_logo.svg.png",Teledeporte
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Teledeporte_logo.svg/512px-Teledeporte_logo.svg.png",🇪🇸 Teledeporte
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TRECE_logo.svg/512px-TRECE_logo.svg.png",TRECE
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TRECE_logo.svg/512px-TRECE_logo.svg.png",🇪🇸 TRECE
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Neox_logo_2023.svg/512px-Neox_logo_2023.svg.png",Neox
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Neox_logo_2023.svg/512px-Neox_logo_2023.svg.png",🇪🇸 Neox
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nova_logo_2023.svg/512px-Nova_logo_2023.svg.png",Nova
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nova_logo_2023.svg/512px-Nova_logo_2023.svg.png",🇪🇸 Nova
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mega_logo_2023.svg/512px-Mega_logo_2023.svg.png",Mega
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mega_logo_2023.svg/512px-Mega_logo_2023.svg.png",🇪🇸 Mega
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atreseries_logo_2023.svg/512px-Atreseries_logo_2023.svg.png",Atreseries
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atreseries_logo_2023.svg/512px-Atreseries_logo_2023.svg.png",🇪🇸 Atreseries
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FDF_logo_2023.svg/512px-FDF_logo_2023.svg.png",FDF
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FDF_logo_2023.svg/512px-FDF_logo_2023.svg.png",🇪🇸 FDF
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BeMad_TV_logo.svg/512px-BeMad_TV_logo.svg.png",Be Mad
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BeMad_TV_logo.svg/512px-BeMad_TV_logo.svg.png",🇪🇸 Be Mad
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Energy_logo_2023.svg/512px-Energy_logo_2023.svg.png",Energy
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Energy_logo_2023.svg/512px-Energy_logo_2023.svg.png",🇪🇸 Energy
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Divinity_logo_2023.svg/512px-Divinity_logo_2023.svg.png",Divinity
+#EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Divinity_logo_2023.svg/512px-Divinity_logo_2023.svg.png",🇪🇸 Divinity
 #
 
 ########################
 # 🇫🇷 FRANÇA (TNT)
 ########################
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/TF1_logo_2013.svg/512px-TF1_logo_2013.svg.png",TF1
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/TF1_logo_2013.svg/512px-TF1_logo_2013.svg.png",🇫🇷 TF1
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/France_2_logo_%282020%29.svg/512px-France_2_logo_%282020%29.svg.png",France 2
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/France_2_logo_%282020%29.svg/512px-France_2_logo_%282020%29.svg.png",🇫🇷 France 2
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/France_3_logo_%282020%29.svg/512px-France_3_logo_%282020%29.svg.png",France 3
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/France_3_logo_%282020%29.svg/512px-France_3_logo_%282020%29.svg.png",🇫🇷 France 3
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_logo_2013.svg/512px-Canal%2B_logo_2013.svg.png",Canal+
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_logo_2013.svg/512px-Canal%2B_logo_2013.svg.png",🇫🇷 Canal+
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/France_5_logo_%282020%29.svg/512px-France_5_logo_%282020%29.svg.png",France 5
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/France_5_logo_%282020%29.svg/512px-France_5_logo_%282020%29.svg.png",🇫🇷 France 5
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/M6_logo_%282018%29.svg/512px-M6_logo_%282018%29.svg.png",M6
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/M6_logo_%282018%29.svg/512px-M6_logo_%282018%29.svg.png",🇫🇷 M6
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arte_Logo_2017.svg/512px-Arte_Logo_2017.svg.png",Arte
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arte_Logo_2017.svg/512px-Arte_Logo_2017.svg.png",🇫🇷 Arte
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/C8_logo_2015.svg/512px-C8_logo_2015.svg.png",C8
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/C8_logo_2015.svg/512px-C8_logo_2015.svg.png",🇫🇷 C8
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/W9_logo.svg/512px-W9_logo.svg.png",W9
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/W9_logo.svg/512px-W9_logo.svg.png",🇫🇷 W9
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png",TMC
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png",🇫🇷 TMC
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TFX_logo_2018.svg/512px-TFX_logo_2018.svg.png",TFX
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TFX_logo_2018.svg/512px-TFX_logo_2018.svg.png",🇫🇷 TFX
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NRJ_12_logo_2015.svg/512px-NRJ_12_logo_2015.svg.png",NRJ 12
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NRJ_12_logo_2015.svg/512px-NRJ_12_logo_2015.svg.png",🇫🇷 NRJ 12
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/LCP_logo_2020.svg/512px-LCP_logo_2020.svg.png",LCP (Assemblée Nationale)
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/LCP_logo_2020.svg/512px-LCP_logo_2020.svg.png",🇫🇷 LCP (Assemblée Nationale)
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/France_4_logo_%282020%29.svg/512px-France_4_logo_%282020%29.svg.png",France 4
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/France_4_logo_%282020%29.svg/512px-France_4_logo_%282020%29.svg.png",🇫🇷 France 4
 #
 
-#EXTINF:-1 group-title="França" tvg-id="BFMTV.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/BFM-TV.png",BFM TV
+#EXTINF:-1 group-title="França" tvg-id="BFMTV.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/BFM-TV.png",🇫🇷 BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CNews_2018_logo.svg/512px-CNews_2018_logo.svg.png",CNews
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CNews_2018_logo.svg/512px-CNews_2018_logo.svg.png",🇫🇷 CNews
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CStar_logo_2019.svg/512px-CStar_logo_2019.svg.png",CStar
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CStar_logo_2019.svg/512px-CStar_logo_2019.svg.png",🇫🇷 CStar
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gulli_logo_2019.svg/512px-Gulli_logo_2019.svg.png",Gulli
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gulli_logo_2019.svg/512px-Gulli_logo_2019.svg.png",🇫🇷 Gulli
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TF1_S%C3%A9ries_Films_logo_2020.svg/512px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",TF1 Séries Films
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TF1_S%C3%A9ries_Films_logo_2020.svg/512px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",🇫🇷 TF1 Séries Films
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/L%27%C3%89quipe_logo_2023.svg/512px-L%27%C3%89quipe_logo_2023.svg.png",L'Équipe
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/L%27%C3%89quipe_logo_2023.svg/512px-L%27%C3%89quipe_logo_2023.svg.png",🇫🇷 L'Équipe
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/6ter_logo_2013.svg/512px-6ter_logo_2013.svg.png",6ter
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/6ter_logo_2013.svg/512px-6ter_logo_2013.svg.png",🇫🇷 6ter
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RMC_Story_logo_2021.svg/512px-RMC_Story_logo_2021.svg.png",RMC Story
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RMC_Story_logo_2021.svg/512px-RMC_Story_logo_2021.svg.png",🇫🇷 RMC Story
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RMC_D%C3%A9couverte_logo_2017.svg/512px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RMC_D%C3%A9couverte_logo_2017.svg/512px-RMC_D%C3%A9couverte_logo_2017.svg.png",🇫🇷 RMC Découverte
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ch%C3%A9rie_25_logo_2015.svg/512px-Ch%C3%A9rie_25_logo_2015.svg.png",Chérie 25
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ch%C3%A9rie_25_logo_2015.svg/512px-Ch%C3%A9rie_25_logo_2015.svg.png",🇫🇷 Chérie 25
 #
 
-#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Franceinfo_logo.svg/512px-Franceinfo_logo.svg.png",France Info TV
+#EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Franceinfo_logo.svg/512px-Franceinfo_logo.svg.png",🇫🇷 France Info TV
 #
 
-#EXTINF:-1 group-title="França" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
+#EXTINF:-1 group-title="França" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",🇫🇷 TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 group-title="França" tvg-id="France24English.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",France 24 EN
+#EXTINF:-1 group-title="França" tvg-id="France24English.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",🇫🇷 France 24 EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="França" tvg-id="France24French.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",France 24 FR
+#EXTINF:-1 group-title="França" tvg-id="France24French.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",🇫🇷 France 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 ########################
 # 🇬🇧 REINO UNIDO (Freeview)
 ########################
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",BBC One
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",🇬🇧 BBC One
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",BBC Two
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",🇬🇧 BBC Two
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ITV1_logo_2022.svg/512px-ITV1_logo_2022.svg.png",ITV1
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ITV1_logo_2022.svg/512px-ITV1_logo_2022.svg.png",🇬🇧 ITV1
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Channel_4_logo_2015.svg/512px-Channel_4_logo_2015.svg.png",Channel 4
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Channel_4_logo_2015.svg/512px-Channel_4_logo_2015.svg.png",🇬🇧 Channel 4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Channel_5_logo_2016.svg/512px-Channel_5_logo_2016.svg.png",Channel 5
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Channel_5_logo_2016.svg/512px-Channel_5_logo_2016.svg.png",🇬🇧 Channel 5
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ITV2_logo_2022.svg/512px-ITV2_logo_2022.svg.png",ITV2
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ITV2_logo_2022.svg/512px-ITV2_logo_2022.svg.png",🇬🇧 ITV2
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",BBC Four
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",🇬🇧 BBC Four
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",🇬🇧 BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ITV3_logo_2022.svg/512px-ITV3_logo_2022.svg.png",ITV3
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ITV3_logo_2022.svg/512px-ITV3_logo_2022.svg.png",🇬🇧 ITV3
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ITV4_logo_2022.svg/512px-ITV4_logo_2022.svg.png",ITV4
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ITV4_logo_2022.svg/512px-ITV4_logo_2022.svg.png",🇬🇧 ITV4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/E4_logo_2018.svg/512px-E4_logo_2018.svg.png",E4
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/E4_logo_2018.svg/512px-E4_logo_2018.svg.png",🇬🇧 E4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/More4_logo_2018.svg/512px-More4_logo_2018.svg.png",More4
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/More4_logo_2018.svg/512px-More4_logo_2018.svg.png",🇬🇧 More4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Film4_logo_2018.svg/512px-Film4_logo_2018.svg.png",Film4
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Film4_logo_2018.svg/512px-Film4_logo_2018.svg.png",🇬🇧 Film4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",🇬🇧 Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",🇬🇧 GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 ########################
 # 🇮🇹 ITÁLIA (DTT)
 ########################
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_logo.svg/512px-Rai_1_logo.svg.png",RAI 1
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_logo.svg/512px-Rai_1_logo.svg.png",🇮🇹 RAI 1
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rai_2_logo.svg/512px-Rai_2_logo.svg.png",RAI 2
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rai_2_logo.svg/512px-Rai_2_logo.svg.png",🇮🇹 RAI 2
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rai_3_logo.svg/512px-Rai_3_logo.svg.png",RAI 3
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rai_3_logo.svg/512px-Rai_3_logo.svg.png",🇮🇹 RAI 3
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rete_4_logo.svg/512px-Rete_4_logo.svg.png",Rete 4
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rete_4_logo.svg/512px-Rete_4_logo.svg.png",🇮🇹 Rete 4
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Canale_5_logo.svg/512px-Canale_5_logo.svg.png",Canale 5
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Canale_5_logo.svg/512px-Canale_5_logo.svg.png",🇮🇹 Canale 5
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Italia_1_logo.svg/512px-Italia_1_logo.svg.png",Italia 1
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Italia_1_logo.svg/512px-Italia_1_logo.svg.png",🇮🇹 Italia 1
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/La7_logo.svg/512px-La7_logo.svg.png",La7
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/La7_logo.svg/512px-La7_logo.svg.png",🇮🇹 La7
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TV8_logo_2022.svg/512px-TV8_logo_2022.svg.png",TV8
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TV8_logo_2022.svg/512px-TV8_logo_2022.svg.png",🇮🇹 TV8
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nove_logo_2023.svg/512px-Nove_logo_2023.svg.png",Nove
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nove_logo_2023.svg/512px-Nove_logo_2023.svg.png",🇮🇹 Nove
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_4_logo.svg/512px-Rai_4_logo.svg.png",RAI 4
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_4_logo.svg/512px-Rai_4_logo.svg.png",🇮🇹 RAI 4
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iris_logo_2018.svg/512px-Iris_logo_2018.svg.png",Iris
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iris_logo_2018.svg/512px-Iris_logo_2018.svg.png",🇮🇹 Iris
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rai_5_logo.svg/512px-Rai_5_logo.svg.png",RAI 5
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rai_5_logo.svg/512px-Rai_5_logo.svg.png",🇮🇹 RAI 5
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rai_Movie_logo.svg/512px-Rai_Movie_logo.svg.png",RAI Movie
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rai_Movie_logo.svg/512px-Rai_Movie_logo.svg.png",🇮🇹 RAI Movie
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rai_Premium_logo.svg/512px-Rai_Premium_logo.svg.png",RAI Premium
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rai_Premium_logo.svg/512px-Rai_Premium_logo.svg.png",🇮🇹 RAI Premium
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cielo_logo_2020.svg/512px-Cielo_logo_2020.svg.png",Cielo
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cielo_logo_2020.svg/512px-Cielo_logo_2020.svg.png",🇮🇹 Cielo
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/27_logo_2020.svg/512px-27_logo_2020.svg.png",27 (Twenty Seven)
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/27_logo_2020.svg/512px-27_logo_2020.svg.png",🇮🇹 27 (Twenty Seven)
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/La5_logo_2018.svg/512px-La5_logo_2018.svg.png",La5
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/La5_logo_2018.svg/512px-La5_logo_2018.svg.png",🇮🇹 La5
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cine34_logo_2018.svg/512px-Cine34_logo_2018.svg.png",Cine34
+#EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cine34_logo_2018.svg/512px-Cine34_logo_2018.svg.png",🇮🇹 Cine34
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",RAI News 24
+#EXTINF:-1 group-title="Itália" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",🇮🇹 RAI News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 
 ########################
 # 🇩🇪 ALEMANHA (DVB-T2)
 ########################
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Das_Erste_logo.svg/512px-Das_Erste_logo.svg.png",Das Erste (ARD)
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Das_Erste_logo.svg/512px-Das_Erste_logo.svg.png",🇩🇪 Das Erste (ARD)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png",Tagesschau24
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png",🇩🇪 Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ZDF_logo.svg/512px-ZDF_logo.svg.png",ZDF
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ZDF_logo.svg/512px-ZDF_logo.svg.png",🇩🇪 ZDF
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RTL_logo_2021.svg/512px-RTL_logo_2021.svg.png",RTL
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RTL_logo_2021.svg/512px-RTL_logo_2021.svg.png",🇩🇪 RTL
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sat.1_logo_2021.svg/512px-Sat.1_logo_2021.svg.png",Sat.1
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sat.1_logo_2021.svg/512px-Sat.1_logo_2021.svg.png",🇩🇪 Sat.1
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ProSieben_logo_2015.svg/512px-ProSieben_logo_2015.svg.png",ProSieben
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ProSieben_logo_2015.svg/512px-ProSieben_logo_2015.svg.png",🇩🇪 ProSieben
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/VOX_logo_2021.svg/512px-VOX_logo_2021.svg.png",VOX
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/VOX_logo_2021.svg/512px-VOX_logo_2021.svg.png",🇩🇪 VOX
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kabel_Eins_logo_2021.svg/512px-Kabel_Eins_logo_2021.svg.png",Kabel Eins
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kabel_Eins_logo_2021.svg/512px-Kabel_Eins_logo_2021.svg.png",🇩🇪 Kabel Eins
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTL_Zwei_logo_2021.svg/512px-RTL_Zwei_logo_2021.svg.png",RTL II
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTL_Zwei_logo_2021.svg/512px-RTL_Zwei_logo_2021.svg.png",🇩🇪 RTL II
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/3sat-Logo.svg/512px-3sat-Logo.svg.png",3sat
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/3sat-Logo.svg/512px-3sat-Logo.svg.png",🇩🇪 3sat
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arte_Logo_2017.svg/512px-Arte_Logo_2017.svg.png",Arte (DE)
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arte_Logo_2017.svg/512px-Arte_Logo_2017.svg.png",🇩🇪 Arte (DE)
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Phoenix_Logo_2018.svg/512px-Phoenix_Logo_2018.svg.png",Phoenix
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Phoenix_Logo_2018.svg/512px-Phoenix_Logo_2018.svg.png",🇩🇪 Phoenix
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ZDFneo_logo.svg/512px-ZDFneo_logo.svg.png",ZDF neo
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ZDFneo_logo.svg/512px-ZDFneo_logo.svg.png",🇩🇪 ZDF neo
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ZDFinfo_logo.svg/512px-ZDFinfo_logo.svg.png",ZDF info
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ZDFinfo_logo.svg/512px-ZDFinfo_logo.svg.png",🇩🇪 ZDF info
 #
 
-#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ServusTV_logo.svg/512px-ServusTV_logo.svg.png",ServusTV Deutschland
+#EXTINF:-1 group-title="Alemanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ServusTV_logo.svg/512px-ServusTV_logo.svg.png",🇦🇹 ServusTV Deutschland
 #
 
 ########################
 # 🌍 NOTÍCIAS INTERNACIONAIS
 ########################
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="CNNInternationalEurope.us" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/CNN.png",CNN International
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="CNNInternationalEurope.us" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/CNN.png",🇺🇸 CNN International
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",🇺🇸 Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://i.imgur.com/43oHsHL.png",🇺🇸 Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",Al Jazeera English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",🇶🇦 Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",Al Jazeera Arabic
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",🇶🇦 Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",DW English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",DW Deutsch
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Deutsch
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",DW Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews Português
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Português
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews English
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews Français
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Français
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews Deutsch
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Deutsch
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Español
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",Euronews Italiano
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Italiano
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT International
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",🇷🇺 RT International
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",🇷🇺 RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",🇨🇳 CGTN
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png",NHK World Japan
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png",🇯🇵 NHK World Japan
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/I24news.svg/512px-I24news.svg.png",i24 News English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/I24news.svg/512px-I24news.svg.png",🇮🇱 i24 News English
 #
 
 ########################
 # 🎵 MÚSICA
 ########################
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
+#EXTINF:-1 group-title="Música" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",🇫🇷 Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
+#EXTINF:-1 group-title="Música" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",🇧🇷 Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",Trace Latina
+#EXTINF:-1 group-title="Música" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",🇫🇷 Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",🇫🇷 Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="DeejayTV.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
+#EXTINF:-1 group-title="Música" tvg-id="DeejayTV.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",🇮🇹 DeeJay TV
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70s
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/qiCCX5X.png",🇬🇧 Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/8paz37m.png",Now 80s
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/8paz37m.png",🇬🇧 Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",Now Rock
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",🇬🇧 Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ########################
 # 🎬 ENTRETENIMENTO
 ########################
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",🇦🇹 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision-TV.png",Motorvision
+#EXTINF:-1 group-title="Entretenimento" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision-TV.png",🇩🇪 Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################
 # 🌍 OUTROS CANAIS
 ########################
 
-#EXTINF:-1 group-title="Outros" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
+#EXTINF:-1 group-title="Outros" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",🇺🇸 CBS News
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_Live_logo_2018.svg/512px-ABC_News_Live_logo_2018.svg.png",ABC News Live
+#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_Live_logo_2018.svg/512px-ABC_News_Live_logo_2018.svg.png",🇺🇸 ABC News Live
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_News_%282023%29.svg/512px-NBC_News_%282023%29.svg.png",NBC News Now
+#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_News_%282023%29.svg/512px-NBC_News_%282023%29.svg.png",🇺🇸 NBC News Now
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MSNBC_logo.svg/512px-MSNBC_logo.svg.png",MSNBC
+#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MSNBC_logo.svg/512px-MSNBC_logo.svg.png",🇺🇸 MSNBC
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
+#EXTINF:-1 group-title="Outros" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",🇺🇸 Fox News
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",Newsmax
+#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",🇺🇸 Newsmax
 #
 
-#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NewsNation_Logo.svg/512px-NewsNation_Logo.svg.png",NewsNation
+#EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NewsNation_Logo.svg/512px-NewsNation_Logo.svg.png",🇺🇸 NewsNation
 #
 
 ########################
 # 🇨🇦 Canadá
 ########################
 
-#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://i.imgur.com/pa4wOVY.png",Savoir Média
+#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://i.imgur.com/pa4wOVY.png",🇨🇦 Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png",ICI RDI
+#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png",🇨🇦 ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",ICI Television
+#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",🇨🇦 ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://i.imgur.com/HsSi3NV.png",ICI Télé HD
+#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://i.imgur.com/HsSi3NV.png",🇨🇦 ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8

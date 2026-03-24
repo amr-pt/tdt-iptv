@@ -36,7 +36,14 @@ playlists/
    - Instalar PVR IPTV Simple Client
    - Configurar com o caminho para o ficheiro M3U
 
-3. **Outros Players**
+3. **Sparkle TV - IPTV Player** (Recomendado para Android) 📱
+   - Descarregar [Sparkle TV](https://play.google.com/store/apps/details?id=com.sparkle.tv) na Google Play Store
+   - Abrir a app → Adicionar playlist
+   - Selecionar "URL" ou "Ficheiro Local"
+   - Colar o URL do ficheiro M3U ou selecionar o ficheiro M3U descarregado
+   - Interface intuitiva com suporte a EPG, favoritos e categorias
+
+4. **Outros Players**
    - Qualquer player que suporte listas M3U/M3U8
 
 ## 🔗 Fontes

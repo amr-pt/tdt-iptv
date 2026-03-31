@@ -37,9 +37,6 @@ https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/CNN_Portugal.m3u
 #EXTINF:-1 group-title="Portugal" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",🇵🇹 ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="TVIAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png",🇵🇹 TVI África
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
 #EXTINF:-1 group-title="Portugal" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",🇵🇹 V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
@@ -399,40 +396,40 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",🇶🇦 Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",🇩🇪 DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Deutsch
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWDeutsch.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",🇩🇪 DW Deutsch
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="DWEspanol.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",🇩🇪 DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",🇩🇪 DW Arabic
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",🇩🇪 DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Português
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews Português
 https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews English
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews English
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Français
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews Français
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Deutsch
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews Deutsch
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews Español
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews_Logo_2023.svg/512px-Euronews_Logo_2023.svg.png",🌍 Euronews Italiano
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",🌍 Euronews Italiano
 #
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",🇷🇺 RT International
-#
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",🇷🇺 RT International
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",🇷🇺 RT Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",🇷🇺 RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",🇨🇳 CGTN

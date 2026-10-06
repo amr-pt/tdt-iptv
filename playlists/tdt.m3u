@@ -22,7 +22,7 @@ https://sic.live.impresa.pt/sic1080p.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",🇵🇹 RTP Notícias
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Notícias.png",🇵🇹 RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 

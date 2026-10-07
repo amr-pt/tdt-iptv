@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output
+output/*.json
+
+# Logs
+logs/
+*.log
+
+# Scripts
+scripts/__pycache__/

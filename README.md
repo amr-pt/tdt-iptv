@@ -1,4 +1,4 @@
-# 📺 Public IPTV Channels
+# 📺 Canais IPTV Públicos
 
 Uma lista organizada de canais IPTV portugueses e internacionais, com foco nos canais de televisão digital terrestre (TDT) de Portugal.
 
@@ -6,7 +6,7 @@ Uma lista organizada de canais IPTV portugueses e internacionais, com foco nos c
 
 **Este projeto NÃO faz streaming de canais de televisão.** Todos os URLs presentes nas listas M3U são endereços públicos encontrados na internet que apontam para streams oficiais ou disponíveis publicamente.
 
-Este repositório funciona apenas como uma **agregação e organização** de links públicos, facilitando o acesso a conteúdos de televisão aberta.
+Este repositório funciona apenas como uma **agregação e organização** de ligações públicas, facilitando o acesso a conteúdos de televisão aberta.
 
 ## 🎯 Objetivo
 
@@ -18,12 +18,17 @@ A ideia desta lista é ter uma coleção de canais portugueses o mais próxima p
 - **Canais TDT Portugal**: Canais generalistas, notícias, regionais e especializados
 - **Canais Internacionais**: Seleção de canais de outros países (Espanha, França, etc.)
 - **EPG e Logos**: Referências incluídas no ficheiro M3U
+- **Scripts**: Ferramentas de verificação e automação (ver pasta `scripts/`)
 
 ## 🗂️ Estrutura
 
 ```
 playlists/
 └── tdt.m3u       # Lista de canais TDT portugueses e internacionais
+scripts/
+└── check_streams.py  # Script de verificação de streams
+output/
+└── stream_status_report.json  # Relatório de verificação
 ```
 
 ## 📡 Como Utilizar
@@ -38,13 +43,13 @@ playlists/
 
 3. **Sparkle TV - IPTV Player** (Recomendado para Android) 📱
    - Descarregar [Sparkle TV](https://play.google.com/store/apps/details?id=com.sparkle.tv) na Google Play Store
-   - Abrir a app → Adicionar playlist
+   - Abrir a aplicação → Adicionar playlist
    - Selecionar "URL" ou "Ficheiro Local"
    - Colar o URL do ficheiro M3U ou selecionar o ficheiro M3U descarregado
    - Interface intuitiva com suporte a EPG, favoritos e categorias
 
-4. **Outros Players**
-   - Qualquer player que suporte listas M3U/M3U8
+4. **Outros Leitores**
+   - Qualquer leitor que suporte listas M3U/M3U8
 
 ## 🔗 Fontes
 
@@ -62,10 +67,24 @@ Contribuições são bem-vindas! Se encontrar ligações que não funcionam ou q
 2. Submeter um pull request
 3. Sugerir melhorias
 
+### Verificar Disponibilidade de Streams
+
+Antes de reportar canais a não funcionar, pode usar o script de verificação para confirmar o estado dos streams:
+
+```bash
+# Instalar dependências
+pip install -r scripts/requirements.txt
+
+# Executar verificação
+python scripts/check_streams.py
+```
+
+Para mais detalhes, consulte [scripts/CHECK_STREAMS.md](scripts/CHECK_STREAMS.md) e [scripts/GITHUB_ACTIONS.md](scripts/GITHUB_ACTIONS.md).
+
 ## ⚖️ Licença e Responsabilidade
 
-- Este projeto não hospeda, não transmite e não distribui conteúdo protegido por direitos de autor
-- Todos os links apontam para streams públicos disponíveis na internet
+- Este projeto não aloja, não transmite e não distribui conteúdo protegido por direitos de autor
+- Todas as ligações apontam para streams públicos disponíveis na internet
 - Os utilizadores são responsáveis pelo uso que fazem desta informação
 - Respeite sempre os direitos de autor e os termos de serviço dos fornecedores de conteúdo
 

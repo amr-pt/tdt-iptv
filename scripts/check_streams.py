@@ -30,13 +30,20 @@ def parse_m3u(file_path):
             match = re.search(r',(.+)$', line)
             if match:
                 channel_name = match.group(1).strip()
+                # Extrair URL do logo
+                logo_match = re.search(r'tvg-logo="([^"]+)"', line)
+                logo_url = logo_match.group(1) if logo_match else None
+                
                 current_channel = {
                     'name': channel_name,
                     'extinf': line,
                     'url': None,
+                    'logo_url': logo_url,
                     'headers': {},
                     'status': None,
-                    'error': None
+                    'logo_status': None,
+                    'error': None,
+                    'logo_error': None
                 }
         
         # Verificar linhas EXTVLCOPT (headers e opções)
@@ -139,33 +146,86 @@ def check_stream(channel, timeout=10):
     return channel
 
 
+def check_logo(channel, timeout=5):
+    """Verificar se o logo de um canal está acessível"""
+    logo_url = channel.get('logo_url')
+    
+    if not logo_url:
+        channel['logo_status'] = 'no_logo'
+        return channel
+    
+    try:
+        response = requests.head(
+            logo_url,
+            timeout=timeout,
+            allow_redirects=True,
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        )
+        
+        if response.status_code in [200, 206, 302, 301]:
+            channel['logo_status'] = 'working'
+            channel['logo_http_status'] = response.status_code
+        else:
+            channel['logo_status'] = 'not_working'
+            channel['logo_http_status'] = response.status_code
+            channel['logo_error'] = f'HTTP {response.status_code}'
+    
+    except requests.exceptions.Timeout:
+        channel['logo_status'] = 'timeout'
+        channel['logo_error'] = 'Pedido excedeu o tempo limite'
+    
+    except requests.exceptions.RequestException as e:
+        channel['logo_status'] = 'error'
+        channel['logo_error'] = str(e)
+    
+    return channel
+
+
 def generate_report(channels, output_file=None):
-    """Gerar um relatório do estado dos streams"""
+    """Gerar um relatório do estado dos streams e logos"""
     total = len(channels)
     working = sum(1 for c in channels if c['status'] == 'working')
     placeholder = sum(1 for c in channels if c['status'] == 'placeholder')
     not_working = sum(1 for c in channels if c['status'] in ['not_working', 'error', 'timeout'])
     
+    # Estatísticas de logos
+    logos_with = sum(1 for c in channels if c.get('logo_url'))
+    logos_working = sum(1 for c in channels if c.get('logo_status') == 'working')
+    logos_not_working = sum(1 for c in channels if c.get('logo_status') in ['not_working', 'error', 'timeout'])
+    
     report = {
         'timestamp': datetime.now().isoformat(),
         'summary': {
             'total': total,
-            'working': working,
-            'placeholder': placeholder,
-            'not_working': not_working,
-            'percentage_working': round((working / total * 100) if total > 0 else 0, 2)
+            'streams': {
+                'working': working,
+                'placeholder': placeholder,
+                'not_working': not_working,
+                'percentage_working': round((working / total * 100) if total > 0 else 0, 2)
+            },
+            'logos': {
+                'with_logo': logos_with,
+                'working': logos_working,
+                'not_working': logos_not_working,
+                'percentage_working': round((logos_working / logos_with * 100) if logos_with > 0 else 0, 2)
+            }
         },
         'channels': channels
     }
     
     # Imprimir resumo
     print("\n" + "="*60)
-    print("📊 RELATÓRIO DE STREAMS")
+    print("📊 RELATÓRIO DE STREAMS E LOGOS")
     print("="*60)
     print(f"Total de canais: {total}")
-    print(f"✅ A funcionar: {working} ({report['summary']['percentage_working']}%)")
-    print(f"⚪ Placeholders: {placeholder}")
-    print(f"❌ A não funcionar: {not_working}")
+    print("\n📺 Streams:")
+    print(f"  ✅ A funcionar: {working} ({report['summary']['streams']['percentage_working']}%)")
+    print(f"  ⚪ Placeholders: {placeholder}")
+    print(f"  ❌ A não funcionar: {not_working}")
+    print(f"\n🖼️  Logos:")
+    print(f"  📊 Com logo: {logos_with}")
+    print(f"  ✅ A funcionar: {logos_working} ({report['summary']['logos']['percentage_working']}%)")
+    print(f"  ❌ A não funcionar: {logos_not_working}")
     print("="*60 + "\n")
     
     # Imprimir canais a não funcionar
@@ -178,6 +238,18 @@ def generate_report(channels, output_file=None):
                 print(f"{status_icon} {channel['name']}")
                 print(f"   URL: {channel['url']}")
                 print(f"   Erro: {channel.get('error', 'N/A')}")
+                print()
+    
+    # Imprimir logos a não funcionar
+    if logos_not_working > 0:
+        print("🖼️  Logos a não funcionar:")
+        print("-" * 60)
+        for channel in channels:
+            if channel.get('logo_status') in ['not_working', 'error', 'timeout']:
+                status_icon = '⏱️' if channel.get('logo_status') == 'timeout' else '❌'
+                print(f"{status_icon} {channel['name']}")
+                print(f"   Logo URL: {channel.get('logo_url', 'N/A')}")
+                print(f"   Erro: {channel.get('logo_error', 'N/A')}")
                 print()
     
     # Guardar em ficheiro se especificado
@@ -210,6 +282,16 @@ def main():
         for i, future in enumerate(as_completed(futures), 1):
             channel = future.result()
             print(f"  [{i}/{len(channels)}] {channel['name']}: {channel['status']}")
+    
+    print("\n🖼️  A verificar logos...")
+    
+    # Verificar logos em paralelo
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = {executor.submit(check_logo, channel): channel for channel in channels}
+        
+        for i, future in enumerate(as_completed(futures), 1):
+            channel = future.result()
+        print(f"  Verificados {len(channels)} logos")
     
     # Gerar relatório
     generate_report(channels, output_file)

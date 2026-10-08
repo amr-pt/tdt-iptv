@@ -85,11 +85,11 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 # 🇪🇸 ESPANHA (TDT)
 ########################
 
-#EXTINF:-1 group-title="Espanha" tvg-id="La1.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La1.png",🇪🇸 La 1
-#
+#EXTINF:-1 group-title="Espanha" tvg-id="La1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LA1.es.png",🇪🇸 La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 group-title="Espanha" tvg-id="La2.es" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/La2.png",🇪🇸 La 2
-#
+#EXTINF:-1 group-title="Espanha" tvg-id="La2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LA2.es.png",🇪🇸 La 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_logo_2023.svg/512px-Antena_3_logo_2023.svg.png",🇪🇸 Antena 3
 #
@@ -103,7 +103,7 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 #EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/La_Sexta_logo_2023.svg/512px-La_Sexta_logo_2023.svg.png",🇪🇸 La Sexta
 #
 
-#EXTINF:-1 group-title="Espanha" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE.png",🇪🇸 24 Horas (TVE)
+#EXTINF:-1 group-title="Espanha" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE24h.pt.png",🇪🇸 TVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 group-title="Espanha" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Clan_TVE_logo.svg/512px-Clan_TVE_logo.svg.png",🇪🇸 Clan TVE
@@ -433,11 +433,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",🇷🇺 RT International
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png",🇷🇺 RT News
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",🇷🇺 RT Español
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT.ru.png"",🇷🇺 RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",🇨🇳 CGTN
@@ -449,51 +448,81 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/I24news.svg/512px-I24news.svg.png",🇮🇱 i24 News English
 #
 
+
+########################
+# ⚽️ DESPORTO
+########################
+
+#EXTINF:-1 group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal11.pt.png",⚽️ Canal 11 Internacional
+https://dy4isoelz3s0x.cloudfront.net/0_hd.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="FIFAPlus.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FIFAPlus.uk.svg",⚽️ FIFA+
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
 ########################
 # 🎵 MÚSICA
 ########################
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",🇫🇷 Trace Urban
+#EXTINF:-1 group-title="Música" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceUrban.fr.png",🎵 Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceBrazuca.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",🇧🇷 Trace Brasil
+#EXTINF:-1 group-title="Música" tvg-id="TraceToca.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceToca.fr.png",🎵 Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceAfrica.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceAfrica.fr.png",🎵 Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceBrasil.fr.png",🎵 Trace Brasil
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",🇫🇷 Trace Latina
+#EXTINF:-1 group-title="Música" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceLatina.fr.png",🎵 Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",🇫🇷 Clubbing TV
+#EXTINF:-1 group-title="Música" tvg-id="TraceUK.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceUK.uk.png",🎵 Trace UK
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceNaija.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceNaija.fr.png",🎵 Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceKitoko.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceKitoko.fr.png",🎵 Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceMiziki.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceMiziki.fr.png",🎵 Trace Miziki
+https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="TraceGospel.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TraceGospel.fr.png",🎵 Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-id="ClubbingTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",🎵 Clubbing TV
 #
 
-#EXTINF:-1 group-title="Música" tvg-id="DeejayTV.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",🇮🇹 DeeJay TV
+#EXTINF:-1 group-title="Música" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/myDeejay.it.png",🎵🇮🇹 DeeJay TV
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/qiCCX5X.png",🇬🇧 Now 70s
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/qiCCX5X.png",🎵🇬🇧 Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/8paz37m.png",🇬🇧 Now 80s
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://i.imgur.com/8paz37m.png",🎵🇬🇧 Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",🇬🇧 Now Rock
+#EXTINF:-1 group-title="Música" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",🎵🇬🇧 Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 ########################
 # 🎬 ENTRETENIMENTO
 ########################
-#EXTINF:-1 group-title="Entretenimento" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",🇨🇭 FIFA+
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",🇦🇹 Red Bull TV
+#EXTINF:-1 group-title="Entretenimento" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RedBullTV.at.png",🇦🇹 Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="Entretenimento" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision-TV.png",🇩🇪 Motorvision
+#EXTINF:-1 group-title="Entretenimento" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision.de.png",🇩🇪 Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################
 # 🌍 OUTROS CANAIS
 ########################
 
-#EXTINF:-1 group-title="Outros" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",🇺🇸 CBS News
+#EXTINF:-1 group-title="Outros" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSNews247.us.png",🇺🇸 CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="Outros" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_Live_logo_2018.svg/512px-ABC_News_Live_logo_2018.svg.png",🇺🇸 ABC News Live
@@ -518,7 +547,7 @@ https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png",🇨🇦 ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",🇨🇦 ICI Television
+#EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICITele.ca.png",🇨🇦 ICI Television
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 group-title="Canadá" tvg-id="" tvg-logo="https://i.imgur.com/HsSi3NV.png",🇨🇦 ICI Télé HD

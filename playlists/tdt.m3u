@@ -221,13 +221,13 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Franceinfo_logo.svg/512px-Franceinfo_logo.svg.png",🇫🇷 France Info TV
 #
 
-#EXTINF:-1 group-title="França" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",🇫🇷 TV5 Monde Info
+#EXTINF:-1 group-title="França" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5Monde.fr.png",🇫🇷 TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 group-title="França" tvg-id="France24English.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",🇫🇷 France 24 EN
+#EXTINF:-1 group-title="França" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",🇫🇷 France 24 EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 group-title="França" tvg-id="France24French.fr" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/France-24.png",🇫🇷 France 24 FR
+#EXTINF:-1 group-title="França" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",🇫🇷 France 24 FR
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="França" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",🇫🇷 Euronews Français
@@ -258,7 +258,7 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",🇬🇧 BBC Four
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",🇬🇧 BBC News
+#EXTINF:-1 group-title="Reino Unido" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBCNews.uk.png",🇬🇧 BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ITV3_logo_2022.svg/512px-ITV3_logo_2022.svg.png",🇬🇧 ITV3
@@ -276,10 +276,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Film4_logo_2018.svg/512px-Film4_logo_2018.svg.png",🇬🇧 Film4
 #
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",🇬🇧 Sky News
-#
+#EXTINF:-1 group-title="Reino Unido" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SkyNewsInternational.uk.png",🇬🇧 Sky News
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream06/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",🇬🇧 GB News
+#EXTINF:-1 group-title="Reino Unido" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/GB-News-Logo.png",🇬🇧 GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 group-title="Reino Unido" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",🇬🇧 Euronews English
@@ -343,7 +343,7 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 group-title="Itália" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cine34_logo_2018.svg/512px-Cine34_logo_2018.svg.png",🇮🇹 Cine34
 #
 
-#EXTINF:-1 group-title="Itália" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",🇮🇹 RAI News 24
+#EXTINF:-1 group-title="Itália" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RaiNews24.it.png",🇮🇹 RAI News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 group-title="Itália" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",🇮🇹 Euronews Italiano
@@ -405,10 +405,10 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 # 🌍 NOTÍCIAS INTERNACIONAIS
 ########################
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="CNNInternationalEurope.us" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/CNN.png",🇺🇸 CNN International
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNNInternational.us.png",🇺🇸 CNN International
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
-#EXTINF:-1 group-title="Notícias Internacional" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",🇺🇸 Bloomberg TV
+#EXTINF:-1 group-title="Notícias Internacional" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BloombergTV.us.png",🇺🇸 Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 group-title="Notícias Internacional" tvg-id="" tvg-logo="https://i.imgur.com/43oHsHL.png",🇺🇸 Yahoo! Finance

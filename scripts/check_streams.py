@@ -9,6 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 import json
 import sys
+import os
 
 
 def parse_m3u(file_path):
@@ -189,8 +190,12 @@ def generate_report(channels, output_file=None):
 
 
 def main():
-    m3u_file = '../playlists/tdt.m3u'
-    output_file = '../output/stream_status_report.json'
+    # Obter o diretório onde o script está localizado
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_dir = os.path.dirname(script_dir)
+    
+    m3u_file = os.path.join(project_dir, 'playlists', 'tdt.m3u')
+    output_file = os.path.join(project_dir, 'output', 'stream_status_report.json')
     
     print("🔍 A analisar ficheiro M3U...")
     channels = parse_m3u(m3u_file)

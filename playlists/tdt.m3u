@@ -66,7 +66,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TPA.png",🇵🇹 RTP África
+#EXTINF:-1 group-title="Portugal" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png.png",🇵🇹 RTP África
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 
@@ -188,7 +188,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/France_4_logo_%282020%29.svg/512px-France_4_logo_%282020%29.svg.png",🇫🇷 France 4
 #
 
-#EXTINF:-1 group-title="França" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MTV.png",🇫🇷 BFM TV
+#EXTINF:-1 group-title="França" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFMTV.fr.png",🇫🇷 BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 group-title="França" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CNews_2018_logo.svg/512px-CNews_2018_logo.svg.png",🇫🇷 CNews

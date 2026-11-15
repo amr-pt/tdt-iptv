@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho | Panorâmica
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Canide NORTE | SUL
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Apúlia
+https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Viana do Castelo | Cabedelo
+https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esposende
+https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho | Silvalde
+https://video-auth1.iol.pt/beachcam/bcsilvade/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Leça da Palmeira | Panorâmica | Aterro
+https://video-auth1.iol.pt/beachcam/bcfarolleca/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Viana do Castelo | Arda | Afife
+https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto | Carneiro
+https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto | Homem do Leme
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila do Conde | Caxinas
+https://video-auth1.iol.pt/beachcam/bccaxinas/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esposende | Foz Do Rio Cávado
+https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho | Pico do casino | Estática
+https://video-auth1.iol.pt/beachcam/bcespinhofixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho | Silvalde | Estática
+https://video-auth1.iol.pt/beachcam/bcsilvadefixa/playlist.m3u8

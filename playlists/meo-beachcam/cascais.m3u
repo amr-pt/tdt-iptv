@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho | Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril
+https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos | Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho | Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Cresmina
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Bafureira | Estática
+https://video-auth1.iol.pt/beachcam/bcbafureirafixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho | Estática
+https://video-auth1.iol.pt/beachcam/bcguinchofixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril | Bico Estática
+https://video-auth1.iol.pt/beachcam/bcsaopedrofixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos | Norte | Estática
+https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos | Calhau | Estática
+https://video-auth1.iol.pt/beachcam/bccarcaveloscalhaufixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Parede | Estática
+https://video-auth1.iol.pt/beachcam/bcparedefixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Moitas | Estática
+https://video-auth1.iol.pt/beachcam/bctamarizfixa/playlist.m3u8

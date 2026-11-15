@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Peniche" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche | Molhe Leste
+https://video-auth1.iol.pt/beachcam/bcmolheleste/playlist.m3u8
+
+#EXTINF:-1 group-title="Peniche" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche | Lagide
+https://video-auth1.iol.pt/beachcam/bclagide/playlist.m3u8
+
+#EXTINF:-1 group-title="Peniche" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche | Baleal | Panorâmica
+https://video-auth1.iol.pt/beachcam/bcbalealgeral/playlist.m3u8
+
+#EXTINF:-1 group-title="Peniche" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche | Consolação
+https://video-auth1.iol.pt/beachcam/bcconsolacao/playlist.m3u8
+
+#EXTINF:-1 group-title="Peniche" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Peniche | Supertubos
+https://video-auth1.iol.pt/beachcam/bcsupertubos/playlist.m3u8

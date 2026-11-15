@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sesimbra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+
+#EXTINF:-1 group-title="Sesimbra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Sesimbra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+
+#EXTINF:-1 group-title="Sesimbra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8

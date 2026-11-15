@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Comporta
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Almograve
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Santo André
+https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",V.N.Milfontes | Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",V.N.Milfontes | Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",V.N.Milfontes | Franquia
+https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvalhal
+https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
+
+#EXTINF:-1 group-title="Alentejo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Torpes | Estática
+https://video-auth1.iol.pt/beachcam/bcsaotorpes2/playlist.m3u8

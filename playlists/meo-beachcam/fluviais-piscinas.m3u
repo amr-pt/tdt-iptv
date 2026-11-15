@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Fluviais/Piscinas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+
+#EXTINF:-1 group-title="Fluviais/Piscinas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Fluvial Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+
+#EXTINF:-1 group-title="Fluviais/Piscinas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Fluvial do Cabril
+https://video-auth1.iol.pt/beachcam/bccabril/playlist.m3u8

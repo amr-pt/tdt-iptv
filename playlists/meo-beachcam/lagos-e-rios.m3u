@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lisboa | Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferreira do Zêzere | Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Farol do Bugio Norte
+https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Farol do Bugio Sul
+https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Viana do Castelo | Wake Park
+https://video-auth1.iol.pt/beachcam/bccabedelocablepark/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferreira do Zêzere | Wake Park
+https://video-auth1.iol.pt/beachcam/bccableferreira/playlist.m3u8
+
+#EXTINF:-1 group-title="Lagos e Rios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ski Clube Quinta Grande
+https://video-auth1.iol.pt/beachcam/bcquintagrande1/playlist.m3u8

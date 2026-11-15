@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Setúbal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+
+#EXTINF:-1 group-title="Setúbal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Portinho da Arrábida
+https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+
+#EXTINF:-1 group-title="Setúbal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Albarquel
+https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8

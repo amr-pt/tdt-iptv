@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS NORTE
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia Nova
+https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha | Norte
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | São João | Cova do Vapor
+https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Tarquínio
+https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS SUL
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha | SUL
+https://video-auth1.iol.pt/beachcam/bcbambu/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia do Norte
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia da Sereia | Morena
+https://video-auth1.iol.pt/beachcam/bcwaikiki/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | São João | Estática
+https://video-auth1.iol.pt/beachcam/bccostasaojoaofixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Nova Praia
+https://video-auth1.iol.pt/beachcam/bcbarracuda/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia Nova | Estática
+https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Tarquínio | Estática
+https://video-auth1.iol.pt/beachcam/bctarquinho2/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS NORTE | Estática
+https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS SUL | Estática
+https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8
+
+#EXTINF:-1 group-title="Almada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia Norte | Estática
+https://video-auth1.iol.pt/beachcam/bccostasantoantonio/playlist.m3u8

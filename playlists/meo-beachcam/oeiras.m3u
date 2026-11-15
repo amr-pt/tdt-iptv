@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Oeiras" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torre
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeiras" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeiras" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeiras" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Paço de Arcos | Estática
+https://video-auth1.iol.pt/beachcam/pacodearcosfixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeiras" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santo Amaro | Estática
+https://video-auth1.iol.pt/beachcam/santoamarofixa/playlist.m3u8

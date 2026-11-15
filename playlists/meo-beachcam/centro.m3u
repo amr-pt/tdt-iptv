@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Cabedelo
+https://video-auth1.iol.pt/beachcam/bcfigueiracabeledo/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/bctocha/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Panorâmica
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Vieira
+https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Murtinheira
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vagueira | Labrego
+https://video-auth1.iol.pt/beachcam/bclabrego/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vagueira | Casablanca
+https://video-auth1.iol.pt/beachcam/vagueiracasablanca/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de São Jacinto | Barra
+https://video-auth1.iol.pt/beachcam/bcfarolbarra/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vagueira | Areão
+https://video-auth1.iol.pt/beachcam/bcareao/playlist.m3u8
+
+#EXTINF:-1 group-title="Centro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Buarcos | Estática
+https://video-auth1.iol.pt/beachcam/bcbuarcos/playlist.m3u8

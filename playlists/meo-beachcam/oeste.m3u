@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz | Navio
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Paredes da Vitória
+https://video-auth1.iol.pt/beachcam/bcparedesvitoria/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Martinho do Porto
+https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz | Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Pedra do Ouro
+https://video-auth1.iol.pt/beachcam/bcpraiaouro/playlist.m3u8
+
+#EXTINF:-1 group-title="Oeste" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz | Norte | Física
+https://video-auth1.iol.pt/beachcam/bcsantacruzcentro/playlist.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande | Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande | Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Magoito
+https://video-auth1.iol.pt/beachcam/bcmagoito/playlist.m3u8
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Pequena
+https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
+
+#EXTINF:-1 group-title="Sintra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Adraga
+https://video-auth1.iol.pt/beachcam/bcadraga/playlist.m3u8

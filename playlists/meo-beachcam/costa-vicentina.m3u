@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Amoreira
+https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Cordoama
+https://video-auth1.iol.pt/beachcam/cordoama/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Vicentina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Sagres
+https://video-auth1.iol.pt/beachcam/bcsagres/playlist.m3u8

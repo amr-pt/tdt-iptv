@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Açores" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Monte Verde
+https://video-auth1.iol.pt/beachcam/bcribeiragrande/playlist.m3u8

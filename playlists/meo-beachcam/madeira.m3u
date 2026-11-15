@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto Santo
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Fajã da Areia
+https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Seixal
+https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Paul do Mar
+https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Ponta Pequena
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+
+#EXTINF:-1 group-title="Madeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira | Praia da Maiata
+https://video-auth1.iol.pt/beachcam/bcmaiata/playlist.m3u8

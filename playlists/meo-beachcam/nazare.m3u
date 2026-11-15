@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia do Norte Panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo | Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjopraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo "Pedra do Guilhim"
+https://video-auth1.iol.pt/beachcam/bcarcanjo2/playlist.m3u8
+
+#EXTINF:-1 group-title="Nazaré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré | Forte S. Miguel Arcanjo | Canhão da Nazaré
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8

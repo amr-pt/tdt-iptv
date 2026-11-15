@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ribeira D´Ilhas
+https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira | Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ericeira | Reef | Pedra Branca
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Julião
+https://video-auth1.iol.pt/beachcam/bcsaojuliao/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Matadouro
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ribeira D´Ilhas | Estática
+https://video-auth1.iol.pt/beachcam/bcribeirafixa/playlist.m3u8
+
+#EXTINF:-1 group-title="Mafra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Boardriders | Skatepark
+https://video-auth1.iol.pt/beachcam/matadouroskate/playlist.m3u8
